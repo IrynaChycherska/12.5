@@ -1,0 +1,70 @@
+﻿  Source.cpp
+D:\1 курс\АП\12.5\12.5\Source.cpp(18,18): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+D:\1 курс\АП\12.5\12.5\Source.cpp(18,68): warning C4305: 'initializing': truncation from 'int' to 'char'
+D:\1 курс\АП\12.5\12.5\Source.cpp(18,18): warning C4309: 'initializing': truncation of constant value
+D:\1 курс\АП\12.5\12.5\Source.cpp(28,18): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+D:\1 курс\АП\12.5\12.5\Source.cpp(28,77): warning C4305: 'initializing': truncation from 'int' to 'char'
+D:\1 курс\АП\12.5\12.5\Source.cpp(28,18): warning C4309: 'initializing': truncation of constant value
+D:\1 курс\АП\12.5\12.5\Source.cpp(28,23): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+D:\1 курс\АП\12.5\12.5\Source.cpp(28,23): warning C4309: 'initializing': truncation of constant value
+D:\1 курс\АП\12.5\12.5\Source.cpp(28,29): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+D:\1 курс\АП\12.5\12.5\Source.cpp(28,29): warning C4309: 'initializing': truncation of constant value
+D:\1 курс\АП\12.5\12.5\Source.cpp(28,35): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+D:\1 курс\АП\12.5\12.5\Source.cpp(28,35): warning C4309: 'initializing': truncation of constant value
+D:\1 курс\АП\12.5\12.5\Source.cpp(28,41): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+D:\1 курс\АП\12.5\12.5\Source.cpp(28,41): warning C4309: 'initializing': truncation of constant value
+D:\1 курс\АП\12.5\12.5\Source.cpp(28,47): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+D:\1 курс\АП\12.5\12.5\Source.cpp(28,47): warning C4309: 'initializing': truncation of constant value
+D:\1 курс\АП\12.5\12.5\Source.cpp(28,53): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+D:\1 курс\АП\12.5\12.5\Source.cpp(28,53): warning C4309: 'initializing': truncation of constant value
+D:\1 курс\АП\12.5\12.5\Source.cpp(28,59): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+D:\1 курс\АП\12.5\12.5\Source.cpp(28,59): warning C4309: 'initializing': truncation of constant value
+D:\1 курс\АП\12.5\12.5\Source.cpp(28,65): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+D:\1 курс\АП\12.5\12.5\Source.cpp(28,65): warning C4309: 'initializing': truncation of constant value
+D:\1 курс\АП\12.5\12.5\Source.cpp(28,71): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+D:\1 курс\АП\12.5\12.5\Source.cpp(28,71): warning C4309: 'initializing': truncation of constant value
+D:\1 курс\АП\12.5\12.5\Source.cpp(51,17): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+D:\1 курс\АП\12.5\12.5\Source.cpp(51,118): warning C4305: 'initializing': truncation from 'int' to 'char'
+D:\1 курс\АП\12.5\12.5\Source.cpp(51,17): warning C4309: 'initializing': truncation of constant value
+D:\1 курс\АП\12.5\12.5\Source.cpp(51,59): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+D:\1 курс\АП\12.5\12.5\Source.cpp(51,59): warning C4309: 'initializing': truncation of constant value
+D:\1 курс\АП\12.5\12.5\Source.cpp(51,64): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+D:\1 курс\АП\12.5\12.5\Source.cpp(51,64): warning C4309: 'initializing': truncation of constant value
+D:\1 курс\АП\12.5\12.5\Source.cpp(51,70): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+D:\1 курс\АП\12.5\12.5\Source.cpp(51,70): warning C4309: 'initializing': truncation of constant value
+D:\1 курс\АП\12.5\12.5\Source.cpp(51,76): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+D:\1 курс\АП\12.5\12.5\Source.cpp(51,76): warning C4309: 'initializing': truncation of constant value
+D:\1 курс\АП\12.5\12.5\Source.cpp(51,82): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+D:\1 курс\АП\12.5\12.5\Source.cpp(51,82): warning C4309: 'initializing': truncation of constant value
+D:\1 курс\АП\12.5\12.5\Source.cpp(51,88): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+D:\1 курс\АП\12.5\12.5\Source.cpp(51,88): warning C4309: 'initializing': truncation of constant value
+D:\1 курс\АП\12.5\12.5\Source.cpp(51,94): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+D:\1 курс\АП\12.5\12.5\Source.cpp(51,94): warning C4309: 'initializing': truncation of constant value
+D:\1 курс\АП\12.5\12.5\Source.cpp(51,100): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+D:\1 курс\АП\12.5\12.5\Source.cpp(51,100): warning C4309: 'initializing': truncation of constant value
+D:\1 курс\АП\12.5\12.5\Source.cpp(51,106): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+D:\1 курс\АП\12.5\12.5\Source.cpp(51,106): warning C4309: 'initializing': truncation of constant value
+D:\1 курс\АП\12.5\12.5\Source.cpp(51,112): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+D:\1 курс\АП\12.5\12.5\Source.cpp(51,112): warning C4309: 'initializing': truncation of constant value
+D:\1 курс\АП\12.5\12.5\Source.cpp(54,18): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+D:\1 курс\АП\12.5\12.5\Source.cpp(54,77): warning C4305: 'initializing': truncation from 'int' to 'char'
+D:\1 курс\АП\12.5\12.5\Source.cpp(54,18): warning C4309: 'initializing': truncation of constant value
+D:\1 курс\АП\12.5\12.5\Source.cpp(54,23): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+D:\1 курс\АП\12.5\12.5\Source.cpp(54,23): warning C4309: 'initializing': truncation of constant value
+D:\1 курс\АП\12.5\12.5\Source.cpp(54,29): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+D:\1 курс\АП\12.5\12.5\Source.cpp(54,29): warning C4309: 'initializing': truncation of constant value
+D:\1 курс\АП\12.5\12.5\Source.cpp(54,35): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+D:\1 курс\АП\12.5\12.5\Source.cpp(54,35): warning C4309: 'initializing': truncation of constant value
+D:\1 курс\АП\12.5\12.5\Source.cpp(54,41): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+D:\1 курс\АП\12.5\12.5\Source.cpp(54,41): warning C4309: 'initializing': truncation of constant value
+D:\1 курс\АП\12.5\12.5\Source.cpp(54,47): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+D:\1 курс\АП\12.5\12.5\Source.cpp(54,47): warning C4309: 'initializing': truncation of constant value
+D:\1 курс\АП\12.5\12.5\Source.cpp(54,53): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+D:\1 курс\АП\12.5\12.5\Source.cpp(54,53): warning C4309: 'initializing': truncation of constant value
+D:\1 курс\АП\12.5\12.5\Source.cpp(54,59): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+D:\1 курс\АП\12.5\12.5\Source.cpp(54,59): warning C4309: 'initializing': truncation of constant value
+D:\1 курс\АП\12.5\12.5\Source.cpp(54,65): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+D:\1 курс\АП\12.5\12.5\Source.cpp(54,65): warning C4309: 'initializing': truncation of constant value
+D:\1 курс\АП\12.5\12.5\Source.cpp(54,71): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+D:\1 курс\АП\12.5\12.5\Source.cpp(54,71): warning C4309: 'initializing': truncation of constant value
+  12.5.vcxproj -> D:\1 курс\АП\12.5\Debug\12.5.exe
